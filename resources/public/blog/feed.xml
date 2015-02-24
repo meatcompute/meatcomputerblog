@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://meat.computer/' rel='self' type='application/rss+xml'/>
+<generator>
+clj-rss
+</generator>
+<title>
+meat λ computer
+</title>
+<link>
+http://meat.computer/
+</link>
+<description>
+personal blog
+</description>
+<lastBuildDate>
+Mon, 23 Feb 2015 10:46:06 -0500
+</lastBuildDate>
+<author>
+meat.computer
+</author>
+<item>
+<guid>
+http://meat.computer/blog/posts/2015-02-23-blogified.html
+</guid>
+<link>
+http://meat.computer/blog/posts/2015-02-23-blogified.html
+</link>
+<title>
+Blogified
+</title>
+<description>
+&lt;h2&gt;&lt;a name=&quot;hey&amp;#95;so&amp;#95;this&amp;#95;is&amp;#95;my&amp;#95;first&amp;#95;blog&amp;#95;post!&quot;&gt;&lt;/a&gt;Hey so this is my first blog post!&lt;/h2&gt;&lt;p&gt;Pretty neat, going to talk about programming, making Clojure screencasts and making some neat other stuff.&lt;/p&gt;
+</description>
+<pubDate>
+Mon, 23 Feb 2015 00:00:00 -0500
+</pubDate>
+<author>
+meat.computer
+</author>
+</item>
+</channel>
+</rss>
