@@ -2,6 +2,6 @@
  :layout :post
  :tags  ["cryogen" "new blog" "clojure"]}
 
-## Keystone
+I intend for interesting things to follow, but I'm starting with a fun waste-of-your-time introductory post.
 
-Pretty neat, going to talk about programming, making Clojure screencasts and making some neat other stuff.
+**Sup**
