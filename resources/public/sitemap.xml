@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url>
 <loc>
-http://meat.computer/blog/404.html
+http://meat.computer/404.html
 </loc>
 <lastmod>
 2015-03-09
@@ -10,7 +10,7 @@ http://meat.computer/blog/404.html
 </url>
 <url>
 <loc>
-http://meat.computer/blog/archives.html
+http://meat.computer/archives.html
 </loc>
 <lastmod>
 2015-03-09
@@ -18,7 +18,7 @@ http://meat.computer/blog/archives.html
 </url>
 <url>
 <loc>
-http://meat.computer/blog/index.html
+http://meat.computer/index.html
 </loc>
 <lastmod>
 2015-03-09
@@ -26,7 +26,7 @@ http://meat.computer/blog/index.html
 </url>
 <url>
 <loc>
-http://meat.computer/blog/pages/about.html
+http://meat.computer/pages/about.html
 </loc>
 <lastmod>
 2015-03-09
@@ -34,7 +34,7 @@ http://meat.computer/blog/pages/about.html
 </url>
 <url>
 <loc>
-http://meat.computer/blog/posts/2015-02-23-blogified.html
+http://meat.computer/posts/2015-02-23-blogified.html
 </loc>
 <lastmod>
 2015-03-09
@@ -42,7 +42,7 @@ http://meat.computer/blog/posts/2015-02-23-blogified.html
 </url>
 <url>
 <loc>
-http://meat.computer/blog/tags/clojure.html
+http://meat.computer/tags/clojure.html
 </loc>
 <lastmod>
 2015-03-09
@@ -50,7 +50,7 @@ http://meat.computer/blog/tags/clojure.html
 </url>
 <url>
 <loc>
-http://meat.computer/blog/tags/cryogen.html
+http://meat.computer/tags/cryogen.html
 </loc>
 <lastmod>
 2015-03-09
@@ -58,7 +58,7 @@ http://meat.computer/blog/tags/cryogen.html
 </url>
 <url>
 <loc>
-http://meat.computer/blog/tags/new blog.html
+http://meat.computer/tags/new blog.html
 </loc>
 <lastmod>
 2015-03-09

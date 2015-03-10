@@ -15,17 +15,17 @@ http://meat.computer/
 personal blog
 </description>
 <lastBuildDate>
-Mon, 09 Mar 2015 20:02:06 -0400
+Mon, 09 Mar 2015 22:45:47 -0400
 </lastBuildDate>
 <author>
 meat.computer
 </author>
 <item>
 <guid>
-http://meat.computer/blog/posts/2015-02-23-blogified.html
+http://meat.computer/posts/2015-02-23-blogified.html
 </guid>
 <link>
-http://meat.computer/blog/posts/2015-02-23-blogified.html
+http://meat.computer/posts/2015-02-23-blogified.html
 </link>
 <title>
 Blogified
@@ -33,6 +33,9 @@ Blogified
 <description>
 &lt;p&gt;I intend for interesting things to follow, but I'm starting with a fun waste-of-your-time introductory post.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sup&lt;/strong&gt;&lt;/p&gt;
 </description>
+<pubDate>
+Mon, 23 Feb 2015 00:00:00 -0500
+</pubDate>
 <author>
 meat.computer
 </author>
