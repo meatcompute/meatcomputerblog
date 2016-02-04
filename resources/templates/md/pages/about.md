@@ -10,3 +10,6 @@ Coding is really terrible, but programming and computation don't have to be. So 
 Formative works for me:
 
 Bret Victor's [The Future of Programming](https://vimeo.com/71278954). You can see the rest of Bret's public work at [http://worrydream.com](http://worrydream.com).
+
+
+All works Copyleft (ɔ) Mikaela Patella duplicate and derive freely. Just don't be a jerk.
