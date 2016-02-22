@@ -6,7 +6,7 @@
 clj-rss
 </generator>
 <title>
-meat λ computer
+meat.computer
 </title>
 <link>
 http://meat.computer/
@@ -15,7 +15,7 @@ http://meat.computer/
 personal blog
 </description>
 <lastBuildDate>
-Tue, 10 Mar 2015 03:38:48 -0400
+Sun, 21 Feb 2016 20:45:07 -0800
 </lastBuildDate>
 <author>
 meat.computer
