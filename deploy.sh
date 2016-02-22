@@ -1,2 +1,3 @@
-cp -ri resources/public /var/blog
+rm -rf /var/blog
+\cp -r resources/public /var/blog
 echo "Updated /var/blog"
